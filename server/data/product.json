@@ -1,0 +1,36 @@
+[
+    {
+        "name": "SanDisk Ultro book",
+        "price": "45.98",
+        "description": "Butcher small batch fashion axe letterpress, beard food truck activated charcoal. Cold-pressed four loko organic, vice 8-bit cornhole kombucha. Quinoa celiac polaroid sriracha kitsch, green juice cray actually tbh. Fanny pack vinyl single-origin coffee, yr keffiyeh artisan listicle mixtape affogato farm-to-table drinking vinegar. Scenester man bun kale chips, PBR&B typewriter ugh literally sriracha taiyaki waistcoat raclette skateboard vinyl. Everyday carry tumeric pok pok blog shoreditch lumbersexual listicle meh air plant raclette iceland tote bag. Meditation flannel farm-to-table salvia trust fund portland palo santo cloud bread copper mug squid.",
+        "ratings": 4.5,
+        "images": [
+            {
+                "public_id": "products/1231cxw1dklj123kl",
+                "url": "https://i.picsum.photos/id/237/400/300.jpg?hmac=32RuLp2fb9I2fzPP3U-6REXQ6sZAbN8ML7_dt3R7wQ8"
+            }
+        ],
+        "category": "Electronics",
+        "seller": "Ebay",
+        "stock": 50,
+        "numOfReviews": 32,
+        "reviews": []
+    },
+    {
+        "name": "Portable Hard Drive",
+        "price": "15.00",
+        "description": "Butcher small batch fashion axe letterpress, beard food truck activated charcoal. Cold-pressed four loko organic, vice 8-bit cornhole kombucha. Quinoa celiac polaroid sriracha kitsch, green juice cray actually tbh. Fanny pack vinyl single-origin coffee, yr keffiyeh artisan listicle mixtape affogato farm-to-table drinking vinegar. Scenester man bun kale chips, PBR&B typewriter ugh literally sriracha taiyaki waistcoat raclette skateboard vinyl. Everyday carry tumeric pok pok blog shoreditch lumbersexual listicle meh air plant raclette iceland tote bag. Meditation flannel farm-to-table salvia trust fund portland palo santo cloud bread copper mug squid.",
+        "ratings": 1,
+        "images": [
+            {
+                "public_id": "products/1231cxw1123dklj123kl",
+                "url": "https://i.picsum.photos/id/237/400/300.jpg?hmac=32RuLp2fb9I2fzPP3U-6REXQ6sZAbN8ML7_dt3R7wQ8"
+            }
+        ],
+        "category": "Electronics",
+        "seller": "Ebay",
+        "stock": 20,
+        "numOfReviews": 1,
+        "reviews": []
+    }
+]
